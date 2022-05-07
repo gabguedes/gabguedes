@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📚 Estudando Javascript, HTML, CSS
+- 📚 Estudando Java, HTML, CSS
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 
