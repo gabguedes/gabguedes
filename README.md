@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 📚 Estudando Java, HTML, CSS
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
+- 📚 Estudando Java, HTML, CSS, JavaScript
+<!-- - 📫 How to reach me: ...
+- 😄 Pronouns: he/him -->
 
 <div align="center">
   <a href="https://github.com/gabguedes">
