@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Gabriel Guedes
 
-- 💻 Information System's student at FIAP
+- 💻 Information System student at FIAP
 - 📚 Currently studying Java, Spring framework, Flutter & Kotlin
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: he/him -->
