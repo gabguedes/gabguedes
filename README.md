@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Gabriel Guedes
 
 - 💻 Information System student at FIAP
-- 📚 Currently studying Java, Spring framework, Flutter & Kotlin
+- 📚 Currently studying Java, Spring framework & Flutter
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: he/him -->
 
@@ -22,7 +22,6 @@
 <img align="center" alt="Gabriel-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 <img align="center" alt="Gabriel-Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 <img align="center" alt="Gabriel-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="center" alt="Gabriel-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="center" alt="Gabriel-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="center" alt="Gabriel-Maven" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <img align="right" width="160" height="200" src="https://media.tenor.com/Llg7JPMnyaUAAAAM/dog-smile.gif"/>
