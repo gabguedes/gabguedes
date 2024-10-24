@@ -1,7 +1,8 @@
-### Hi 👋, I'm Gabriel Guedes
+### Olá 👋, sou Gabriel Guedes
 
-- 💻 Information System student at FIAP
-- 📚 Currently studying Java, Spring framework & Flutter
+Atualmente cursando o 6° semestre de Sistemas de Informação, apaixonado por técnologia desde pequeno, fui inserido no mundo do desenvolvimento devido minha paixâo por jogos e curiosidade pelo processo de desenvolvimento de um.
+
+📚 Atualmente estudando: Java, Spring Boot, JavaScript & React
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: he/him -->
 
@@ -14,16 +15,9 @@
 </div>
 
 <div style="display = inline_block"><br>  
-<img align="center" alt="Gabriel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Gabriel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gabriel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Gabriel-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt="Gabriel-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="Gabriel-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-<img align="center" alt="Gabriel-Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="center" alt="Gabriel-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="center" alt="Gabriel-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="center" alt="Gabriel-Maven" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,spring,flutter,dart,kotlin,git,&perline=14" />
+</div>
 <img align="right" width="160" height="200" src="https://media.tenor.com/Llg7JPMnyaUAAAAM/dog-smile.gif"/>
 </div>                      
 
